@@ -8,9 +8,10 @@
 
 
     <Button
+        android:id="@+id/id_button1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Call"
-        android:onClick=""
+        android:onClick="Llamar"
 
 </androidx.constraintlayout.widget.ConstraintLayout>
