@@ -19,5 +19,5 @@
             </intent-filter>
         </activity>
     </application>
-
+    <permission android:name="CALL_PHONE"></permission>
 </manifest>
